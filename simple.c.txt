@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+void main()
+{
+printf(" \n This program is my c program github\n\n"");
+
+}
