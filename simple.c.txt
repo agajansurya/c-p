@@ -3,7 +3,7 @@
 void main()
 {
 int i;
-printf(" \n This program is my c program github\n\n"");
+printf(" \n This program is my c program in github\n\n"");
 printf("\n enter an int value  :  ");
 scanf("&d",i);
 getch();
