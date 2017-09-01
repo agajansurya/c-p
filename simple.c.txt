@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+void display1();
 void main()
 {
 int i;
@@ -8,6 +8,17 @@ printf(" \n This program is my c program in github\n\n"");
 printf("\n enter an int value  :  ");
 scanf("&d",i);
 printf("\n sum of  i + j = ", i+j);
+display1();
 getch();
+
+}
+
+
+void display1()
+{
+getch();
+putch();
+printf("\n this is from surya branch\n");
+
 
 }
